@@ -10,4 +10,5 @@ This is a project to demonstrate the effective use of code versioning locally, t
 ## Details
     None at this time.
 ## Outside Code
-    None at this time.
+    HTML 5 image - http://www.pathowe.co.uk/news/HTML5.png
+    W3C W3C CSS image - http://jigsaw.w3.org/css-validator/images/vcss-blue
